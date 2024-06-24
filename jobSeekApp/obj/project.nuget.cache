@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rfDR5zu3DoY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dasyx\\Documents\\Développement Web\\TOSA_DigComp\\rechercheEmploi\\jobSeekApp\\jobSeekApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dasyx\\.nuget\\packages\\google-search-results-dotnet\\2.0.1\\google-search-results-dotnet.2.0.1.nupkg.sha512",
+    "C:\\Users\\dasyx\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

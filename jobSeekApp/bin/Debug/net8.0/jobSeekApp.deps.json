@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "jobSeekApp/1.0.0": {
+        "dependencies": {
+          "google-search-results-dotnet": "2.0.1"
+        },
+        "runtime": {
+          "jobSeekApp.dll": {}
+        }
+      },
+      "google-search-results-dotnet/2.0.1": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.2"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/serpapi.dll": {
+            "assemblyVersion": "2.0.1.0",
+            "fileVersion": "2.0.1.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.2.23222"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "jobSeekApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "google-search-results-dotnet/2.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0zn2eLhmyCWlo2eHb/U6txtVzNmfMBXe3LLh9SGNXGkiE55FF7mD12VypqYwvayGH9yF+EgPA6zoa2RgfchPog==",
+      "path": "google-search-results-dotnet/2.0.1",
+      "hashPath": "google-search-results-dotnet.2.0.1.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rTK0s2EKlfHsQsH6Yx2smvcTCeyoDNgCW7FEYyV01drPlh2T243PR2DiDXqtC5N4GDm4Ma/lkxfW5a/4793vbA==",
+      "path": "newtonsoft.json/12.0.2",
+      "hashPath": "newtonsoft.json.12.0.2.nupkg.sha512"
+    }
+  }
+}
